@@ -1,5 +1,7 @@
 # ClarIA
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23098877.svg)](https://doi.org/10.5281/zenodo.23098877)
+
 Aplicación web de un solo fichero que convierte los **materiales que ya has elaborado** (PDF, Word, PowerPoint, texto) en una explicación clara, diagramas, una página web interactiva y un vídeo explicativo con voz.
 
 **Usar la app:** https://fborrasumh.github.io/claria/
@@ -33,7 +35,7 @@ Fernando Borrás Rocher · Universidad Miguel Hernández de Elche.
 
 ## Cómo citar
 
-Borrás Rocher, F. (2026). *ClarIA* (v1.0.0) [Software]. Universidad Miguel Hernández de Elche. (DOI en trámite)
+Borrás Rocher, F. (2026). *ClarIA* (v1.0.0) [Software]. Universidad Miguel Hernández de Elche. DOI: [10.5281/zenodo.23098877](https://doi.org/10.5281/zenodo.23098877)
 
 ## Licencia
 
